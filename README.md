@@ -1,6 +1,6 @@
 # Hey there, I'm Justin! 👋
 
-⚡ Full-stack Developer & Gamer 🎮.<br>
+⚡ Full-stack Developer & Gamer 🎮<br>
 🔭 Currently working on Two Rooms and A Boom WebApp and learning different full-stack frameworks
 
 
